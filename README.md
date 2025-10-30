@@ -18,10 +18,10 @@ A secure full-stack healthcare portal built with **Spring Boot (Backend)** and *
 
 MediLink_Portal/
 │
-├── backend/ # Spring Boot backend
-├── frontend/ # React (Vite) frontend
-├── docs/ # Architecture & notes
-└── .gitignore
+|-- backend/ # Spring Boot backend
+|-- frontend/ # React (Vite) frontend
+|-- docs/ # Architecture & notes
+└-- .gitignore
 
 ---
 

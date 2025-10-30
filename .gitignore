@@ -1,0 +1,26 @@
+# ---- Java / Spring Boot ----
+/backend/target/
+*.class
+*.jar
+*.war
+*.iml
+/.mvn/
+.mvn/
+.idea/
+*.log
+
+# ---- Node / React ----
+/frontend/node_modules/
+/frontend/.vite/
+frontend/dist/
+frontend/.env.local
+
+# ---- OS / IDE Files ----
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ---- Environment & Secrets ----
+.env
+*.env

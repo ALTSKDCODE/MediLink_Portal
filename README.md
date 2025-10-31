@@ -204,6 +204,6 @@ This project is licensed under the **MIT License** — see the `LICENSE` file fo
 ## ✨ Author
 
 👨‍💻 **Sudeep Kumar Dalei**  
-📧 [sudeep@example.com](mailto:sudeep@example.com)  
-🌐 [GitHub Profile](https://github.com/sudeepkdalei)  
+📧 [sudeepdalei38@gmail.com](mailto:sudeepdalei38@gmail.com)  
+🌐 [GitHub Profile](https://github.com/ALTSKDCODE)  
 💼 Backend Developer | Java | Spring Boot | React | AWS  
